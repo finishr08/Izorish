@@ -1,5 +1,7 @@
 <h3 align="center">🚀 Izorish: Your one-stop ecommerce platform for the latest products</h2>
 
+![Demo App](/client/src/assets/demo.png)
+
 ### 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
