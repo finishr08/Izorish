@@ -23,7 +23,7 @@ const NewsLetterBox = () => {
         />
         <button
           onSubmit={onSubmitHandler}
-          className="bg-black  text-white text-xs px-10 py-4 rounded-md"
+          className="bg-black  text-white text-xs px-10 py-4 rounded-r-md"
           type="submit"
         >
           SUBSCRIBE
