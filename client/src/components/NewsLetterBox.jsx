@@ -14,16 +14,16 @@ const NewsLetterBox = () => {
         Subscribe to Forever’s newsletter for the latest fashion updates and
         exclusive offers delivered straight to your inbox.
       </p>
-      <form className="w-full sm:w-1/2 flex items-center gap-3 mx-auto my-6 border pl-3 ">
+      <form className="w-full sm:w-1/2 flex items-center gap-3 mx-auto my-6 border pl-3 rounded-md">
         <input
-          className="w-full sm:flex-1 outline-none"
+          className="w-full sm:flex-1 outline-none "
           type="email"
           placeholder="Enter your email"
           required
         />
         <button
           onSubmit={onSubmitHandler}
-          className="bg-black  text-white text-xs px-10 py-4"
+          className="bg-black  text-white text-xs px-10 py-4 rounded-md"
           type="submit"
         >
           SUBSCRIBE
